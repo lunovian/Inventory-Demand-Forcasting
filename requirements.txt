@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+tensorflow
+keras
+lightgbm
+xgboost
+prophet
+holidays
+tqdm
+joblib
+plotly
+catboost
+pycaret
